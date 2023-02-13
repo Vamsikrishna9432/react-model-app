@@ -83,14 +83,14 @@ button:focus-visible {
 }
 .header-container {
   width: 100vw;
-  height: 16vh;
+  height: 10vh;
   background-color: #000000;
   color: #ffffff;
   text-align: center;
   position: fixed;
 }
 .me2 {
-  font-size: 35px;
+  font-size: 20px;
   font-weight: bold;
   font-family: "Roboto";
 }
